@@ -1,0 +1,3 @@
+[submodule "uguif"]
+	path = uguif
+	url = https://github.com/ve3wwg/UGUIF.git
